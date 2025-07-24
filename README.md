@@ -25,6 +25,15 @@ Python 3
 
 Terminal (linha de comando)
 
+📚 O que eu aprendi
+Entrada e saída de dados no terminal
+
+Conversão de tipos (str para float)
+
+Controle de fluxo (if, while)
+
+Tratamento de erros com try/except
+
 🎯 Objetivo do projeto
 Este é o meu primeiro projeto de programação!
 O objetivo foi praticar lógica básica, entrada de dados e controle de fluxo com if, while, try, etc.
@@ -32,3 +41,4 @@ O objetivo foi praticar lógica básica, entrada de dados e controle de fluxo co
 ✍️ Autor:
 
 Feito por Kevin Dos Santos.
+Iniciando na programação e cibersegurança 
